@@ -16,7 +16,7 @@ Heart disease remains one of the leading causes of mortality worldwide. Understa
 This project aims to analyze heart disease datasets using various machine-learning techniques to identify patterns, risk factors, and predictive models.
 
 ## Dataset
-We utilize a publicly available heart disease dataset sourced from [insert source here]. The dataset contains a comprehensive set of attributes including demographic information, medical history, and various diagnostic test results.
+We utilize a publicly available heart disease dataset sourced from Kaggle. The dataset contains a comprehensive set of attributes including demographic information, medical history, and various diagnostic test results.
 
 ## Analysis
 Our analysis includes exploratory data analysis (EDA) to understand the distribution and relationships between different features. We also employ machine learning algorithms such as logistic regression, decision trees, and neural networks to build predictive models for heart disease diagnosis.
